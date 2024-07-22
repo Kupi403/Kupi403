@@ -34,4 +34,4 @@ Jako freelancer tworzę i utrzymuję strony internetowe dla różnych klientów.
 
 ## Hobby
 
-- **Sędzia piłkarski**: Aktywnie sędziuję na 5. poziomie rozgrywkowym w Polsce, co pozwala mi na rozwijanie umiejętności zarządzania i podejmowania decyzji w dynamicznych sytuacjach.
+- **Sędzia piłkarski**: Aktywnie sędziuję na 5. poziomie rozgrywkowym w Polsce (IV liga mazowiecka), co pozwala mi na rozwijanie umiejętności zarządzania i podejmowania decyzji w dynamicznych sytuacjach.
