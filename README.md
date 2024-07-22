@@ -1,6 +1,6 @@
 ## O mnie
 
-Jestem studentem Informatyki (inżynier) na 2. roku oraz współpracuję z klientami jako freelancer, tworząc strony internetowe.
+Jestem studentem Politechniki Lubelskiej na inżynierskim kierunku Informatyka, aktualnie na 2. roku. Współpracuję również z klientami jako freelancer, tworząc strony internetowe.
 
 Technologie, które znam: 
 - HTML,
@@ -29,8 +29,8 @@ Jako freelancer tworzę i utrzymuję strony internetowe dla różnych klientów.
 
 ## Wykształcenie
 
-- **Student Informatyki (inżynier)** 2023 - aktualnie.
-- **Technik informatyk**: 2019 - 2023.
+- **Student Informatyki (inżynier)** - Politechnika Lubelska (2023 - aktualnie)
+- **Technik informatyk** - Zespół Szkół Elektronicznych w Radomiu im. Bohaterów Westerplatte (2019 - 2023)
 
 ## Hobby
 
