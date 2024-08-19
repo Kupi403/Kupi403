@@ -7,12 +7,16 @@ Technologie, które znam:
 - SCSS
 - JavaScript (ES6+)
 - Gulp
+  
 <br />
+
 - React
 - React Redux
 - React Router
 - React Query
+
 <br />
+
 - Angular
 
 ## Projekty
