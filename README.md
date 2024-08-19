@@ -3,14 +3,17 @@
 Jestem studentem Politechniki Lubelskiej na inżynierskim kierunku Informatyka, aktualnie na 2. roku. Współpracuję również z klientami jako freelancer, tworząc strony internetowe.
 
 Technologie, które znam: 
-- HTML,
-- SCSS,
-- JavaScript (ES6+),
-- Gulp,
-- React,
-- React Redux,
-- React Router,
-- React Query. 
+- HTML
+- SCSS
+- JavaScript (ES6+)
+- Gulp
+
+- React
+- React Redux
+- React Router
+- React Query
+
+- Angular
 
 ## Projekty
 
