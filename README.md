@@ -8,10 +8,12 @@ Technologie, które znam:
 - JavaScript (ES6+)
 - Gulp
 
+
 - React
 - React Redux
 - React Router
 - React Query
+
 
 - Angular
 
