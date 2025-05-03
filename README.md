@@ -1,11 +1,11 @@
 ## O mnie
 
-Jestem studentem Politechniki Lubelskiej na inżynierskim kierunku Informatyka, aktualnie na 2. roku. Współpracuję również z klientami jako freelancer, tworząc strony internetowe.
+Jestem studentem Politechniki Lubelskiej na inżynierskim kierunku Informatyka, aktualnie na 2. roku. Współpracuję również z klientami jako freelancer, tworząc strony i aplikacje internetowe.
 
 Technologie, które znam: 
-- HTML
-- SCSS
+- Next.js
 - JavaScript (ES6+)
+- SCSS
 - Gulp
   
 <br />
@@ -17,7 +17,7 @@ Technologie, które znam:
 
 <br />
 
-- Angular
+- Angular (junior)
 
 ## Projekty
 
@@ -29,10 +29,14 @@ Technologie, które znam:
 
 ### Doświadczenie Freelance
 
-Jako freelancer tworzę i utrzymuję strony internetowe dla różnych klientów. Przykłady moich projektów:
+Jako freelancer tworzę i utrzymuję strony oraz aplikacje internetowe dla różnych klientów. Przykłady moich projektów:
 
 - **[Martrans Brukarz](https://martransbrukarz.pl)**: Strona internetowa dla firmy zajmującej się usługami brukarskimi.
 - **[Amici Pizzeria](https://amicipizzeria.pl)**: Strona internetowa dla pizzerii oferującej różnorodne dania.
+
+Projekty we współpracą z innymi developerami:
+- **[Wypożyczalnia przyczep i naczep Art-Mot](https://art-mot.pl)**: Strona wizytówka oraz katalog produktów.
+- **[Program lojalnościowy Paturcy](http://paturcy-lojalni.pl/)**: Program lojalnościowy dla ubezpieczyciela.
 
 ## Wykształcenie
 
