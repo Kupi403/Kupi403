@@ -30,7 +30,7 @@ I'm passionate about clean code, responsive design, and building intuitive user 
 
 ### 🛠️ Development & Tools
 
-- **Git / GitHub**
+- **Git / GitHub / GitLab**
 - **Responsive Web Design**
 - **Component-based Architecture**
 - **SEO Basics**
