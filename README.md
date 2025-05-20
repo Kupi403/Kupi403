@@ -35,8 +35,11 @@ I'm passionate about clean code, responsive design, and building intuitive user 
 - **Component-based Architecture**
 - **SEO Basics**
 
+<br />
 
 # 🧩 Commercial projects
+
+<br />
 
 ## 📰 Komisja Sędziowska Radom **(in progress)**
 
@@ -65,6 +68,8 @@ An upcoming responsive information portal for the Referee Committee in Radom. Th
   - API endpoints – dynamic content fetching  
   - Role-based access for content editing and publishing
 
+<br />
+
 ## 📰 [UEFA Refereeing Assistance Programme 🔗](https://uefaclips.eu)
 
 A fully responsive web application designed for football referees. It provides access to the latest UEFA refereeing clips and is available in both English and Polish.
@@ -89,9 +94,13 @@ A fully responsive web application designed for football referees. It provides a
 
 🔗 https://uefaclips.eu
 
+<br />
+
 # 🤝 Projects in cooperation with other developers
 
 As a member of **DevvMates** I have a pleasure to work with 4 Web Developers and UI/UX Designer.
+
+<br />
 
 ## 📰 [Art-Mot Trailer Rental 🔗](https://art-mot.pl)
 
@@ -110,6 +119,8 @@ A product catalog and company homepage for a trailer and semi-trailer rental ser
 - **Fetch API**
 
 ---
+
+<br />
 
 ## 📰 [Paturcy Loyalty Program 🔗](https://paturcy-lojalni.pl)
 
@@ -131,6 +142,8 @@ A loyalty program web app for an insurance company. I worked on the header, cont
 
 As a freelancer, I look for clients, create mockups, establish business details and support created websites for clients.
 
+<br />
+
 ## 📰 [Martrans Brukarz 🔗](https://martransbrukarz.pl)
 
 A portfolio website for a paving services company. The website highlights the company's offerings and features a project photo gallery.
@@ -147,6 +160,8 @@ A portfolio website for a paving services company. The website highlights the co
 - **SCSS** – Modular styling  
 - **JavaScript (ES6+)** – Dynamic date automation  
 - **GlightBox** – Responsive image gallery
+
+<br />
 
 ## 📰 [Amici Pizzeria 🔗](https://amicipizzeria.pl)
 
@@ -165,8 +180,9 @@ A website for a local pizzeria. Features include photo gallery and an interactiv
 - **JavaScript (ES6+)**  
 - **GlightBox**
 
----
+<br />
 
+---
 
 # 🎓 Education
 
@@ -174,6 +190,8 @@ A website for a local pizzeria. Features include photo gallery and an interactiv
 - **IT Technician** – Zespół Szkół Elektronicznych, Radom (2019 – 2023)
 
 ---
+
+<br />
 
 # ⚽ Hobbies
 
