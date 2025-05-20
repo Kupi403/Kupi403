@@ -39,8 +39,6 @@ I'm passionate about clean code, responsive design, and building intuitive user 
 
 # 🧩 Commercial projects
 
-<br />
-
 ## 📰 Komisja Sędziowska Radom **(in progress)**
 
 An upcoming responsive information portal for the Referee Committee in Radom. The website will provide referees with categorized news, match assignments, event schedules, training materials, and more. Planned deployment: **July 2025**.
@@ -100,8 +98,6 @@ A fully responsive web application designed for football referees. It provides a
 
 As a member of **DevvMates** I have a pleasure to work with 4 Web Developers and UI/UX Designer.
 
-<br />
-
 ## 📰 [Art-Mot Trailer Rental 🔗](https://art-mot.pl)
 
 A product catalog and company homepage for a trailer and semi-trailer rental service.
@@ -118,9 +114,9 @@ A product catalog and company homepage for a trailer and semi-trailer rental ser
 - **Tailwind CSS** – Utility-first styling  
 - **Fetch API**
 
----
-
 <br />
+
+---
 
 ## 📰 [Paturcy Loyalty Program 🔗](https://paturcy-lojalni.pl)
 
@@ -138,11 +134,11 @@ A loyalty program web app for an insurance company. I worked on the header, cont
 - **SCSS Modules** – scoped component styling  
 - **React-admin** - building admin interface
 
+<br />
+
 # 👀 Freelance projects
 
 As a freelancer, I look for clients, create mockups, establish business details and support created websites for clients.
-
-<br />
 
 ## 📰 [Martrans Brukarz 🔗](https://martransbrukarz.pl)
 
@@ -180,8 +176,6 @@ A website for a local pizzeria. Features include photo gallery and an interactiv
 - **JavaScript (ES6+)**  
 - **GlightBox**
 
-<br />
-
 ---
 
 # 🎓 Education
@@ -190,8 +184,6 @@ A website for a local pizzeria. Features include photo gallery and an interactiv
 - **IT Technician** – Zespół Szkół Elektronicznych, Radom (2019 – 2023)
 
 ---
-
-<br />
 
 # ⚽ Hobbies
 
