@@ -90,7 +90,7 @@ A fully responsive web application designed for football referees. It provides a
 - **MUI** – Material Design components  
 - **SCSS** – Modular styling with variables
 
-🔗 https://uefaclips.eu
+🔗 [REPOSITORY](https://github.com/Kupi403/UEFA-RAP-REACT)
 
 <br />
 
