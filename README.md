@@ -12,21 +12,20 @@ I'm passionate about clean code, responsive design, and building intuitive user 
 - **TypeScript**
 - **HTML5 & CSS3**
 - **SCSS / SCSS Modules**
-- **Gulp**
 - **Tailwind CSS**
+- **Gulp**
 - **Strapi**
 
 ### ⚙️ Frameworks & Libraries
 
+- **Next.js**
 - **React**  
 - **React Router**  
 - **React Redux**
 - **React Context API**    
 - **React Query**
-- **Next.js**  
 - **Vite**
 - **MUI (Material UI)**
-- **GlightBox**
 
 ### 🛠️ Development & Tools
 
@@ -41,17 +40,17 @@ I'm passionate about clean code, responsive design, and building intuitive user 
 
 ## 📰 Komisja Sędziowska Radom **(in progress)**
 
-An upcoming responsive information portal for the Referee Committee in Radom. The website will provide referees with categorized news, match assignments, event schedules, training materials, and more. Planned deployment: **July 2025**.
+An upcoming responsive information portal for the Referee Committee in Radom. The website will provide referees with categorized news, referee listings, scheduled events, training materials and more. Planned deployment: **July 2025**.
 
 ### 🔍 App Features
 
 - Dynamic news section with post categories  
-- Referee assignment listings  
+- Referee listings
 - Interactive calendar with upcoming events  
-- Admin panel for content management  
 - Section for training resources and downloadable files  
-- Contact form and referee course registration form  
 - CMS-managed media uploads and access (images, PDFs, etc.)
+- Custom admin panel for content management (soon)
+- Contact form and referee course registration form  (soon)
 
 ### 🛠 Technologies
 
