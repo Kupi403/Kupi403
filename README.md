@@ -39,7 +39,7 @@ I'm passionate about clean code, responsive design, and building intuitive user 
 # 🧩 Commercial projects
 
 ## 📰 Komisja Sędziowska Radom **(in progress)**
-👀 [Demo, not completed version preview 🔗](http://93.127.186.161/)
+👀 [Demo, not completed version preview 🔗](http://93.127.186.161/) <br />
 🔗 [REPOSITORY](https://github.com/Kupi403/ksradom-preview)
 
 An upcoming responsive information portal for the Referee Committee in Radom. The website will provide referees with categorized news, referee listings, scheduled events, training materials and more. 
