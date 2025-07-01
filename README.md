@@ -67,12 +67,16 @@ Planned deployment: **July 2025**.
 - **Notistack** - notifications for users 
 - **GlightBox** - interactive image slider
 - **SCSS Modules** – Scoped component-level styles  
-- **Strapi (Headless CMS)** – Backend for content and media:
-
+- **Strapi (Headless CMS)** – Backend for content and media:  
   - Content types for posts, assignments, events etc.  
   - Media Library – file/image upload and management  
   - API endpoints – dynamic content fetching  
-  - Role-based access for content editing and publishing
+  - Role-based access for content editing and publishing  
+  - Relational PostgreSQL database
+  - RESTful API patterns with filters, pagination, sorting and population  
+  - Custom endpoints and controllers (e.g., adjacent posts by date)  
+  - Lifecycle hooks and services for business logic (e.g., generating full names)  
+  - Physical folder structure for media uploads per season/category  
 
 <br />
 
