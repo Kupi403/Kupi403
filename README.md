@@ -39,11 +39,13 @@ I'm passionate about clean code, responsive design, and building intuitive user 
 # 🧩 Commercial projects
 
 ## 📰 [Komisja Sędziowska Radom 🔗](https://ksradom.pl)
+
 🔗 [REPOSITORY](https://github.com/Kupi403/ksradom-preview)
 
-An upcoming responsive information portal for the Referee Committee in Radom. The website will provide referees with categorized news, referee listings, scheduled events, training materials and more. 
+An responsive information portal for the Referee Committee in Radom. The website provides referees with categorized news, referee listings, scheduled events, training materials and more. 
 Build with Next.js for frontend and Strapi for backend.
-Planned deployment: **July 2025**.
+
+![KS Radom Preview](https://github.com/Kupi403/Kupi403/blob/main/ksradom-desktop.jpg)
 
 ### 🔍 App Features
 
@@ -53,7 +55,7 @@ Planned deployment: **July 2025**.
 - Section for training resources and downloadable files  
 - CMS-managed media uploads and access (images, PDFs, etc.)
 - Contact form and referee course registration form
-- Custom admin panel for content management (soon)
+- Admin panel for content management
 
 
 ### 🛠 Technologies
@@ -85,6 +87,8 @@ Planned deployment: **July 2025**.
 
 A fully responsive web application designed for football referees. It provides access to the latest UEFA refereeing clips and is available in both English and Polish.
 
+![UEFA RAP Preview](https://github.com/Kupi403/Kupi403/blob/main/uefaclips-desktop.jpg)
+
 ### 🔍 App Features
 
 - Fetching data from a local JSON file  
@@ -115,6 +119,8 @@ As a member of **DevvMates** I have a pleasure to work with 4 Web Developers and
 
 A product catalog and company homepage for a trailer and semi-trailer rental service.
 
+![Art-Mot Preview](https://github.com/Kupi403/Kupi403/blob/main/artmot-desktop.jpg)
+
 ### 🔍 App Features
 
 - Catalog of products with images and specs  
@@ -134,6 +140,8 @@ A product catalog and company homepage for a trailer and semi-trailer rental ser
 ## 📰 [Paturcy Loyalty Program 🔗](https://paturcy-lojalni.pl)
 
 A loyalty program web app for an insurance company. I worked on the header, contact section, and admin panel.
+
+![Paturcy Preview](https://github.com/Kupi403/Kupi403/blob/main/paturcy-desktop.jpg)
 
 ### 🔍 App Features
 
@@ -157,6 +165,8 @@ As a freelancer, I look for clients, create mockups, establish business details 
 
 A portfolio website for a paving services company. The website highlights the company's offerings and features a project photo gallery.
 
+![Martrans Preview](https://github.com/Kupi403/Kupi403/blob/main/martrans-desktop.jpg)
+
 ### 🔍 App Features
 
 - Static company info and offer description  
@@ -175,6 +185,8 @@ A portfolio website for a paving services company. The website highlights the co
 ## 📰 [Amici Pizzeria 🔗](https://amicipizzeria.pl)
 
 A website for a local pizzeria. Features include photo gallery and an interactive food menu.
+
+![Amici Pizzeria Preview](https://github.com/Kupi403/Kupi403/blob/main/amici-desktop.jpg)
 
 ### 🔍 App Features
 
