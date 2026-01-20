@@ -36,7 +36,9 @@ I'm passionate about clean code, responsive design, and building intuitive user 
 
 <br />
 
-# 🧩 Commercial projects
+# 💼 Freelance commercial projects
+
+### As a freelancer, I look for clients, create mockups, establish business details and support created websites for clients.
 
 ## 📰 [Komisja Sędziowska Radom 🔗](https://ksradom.pl)
 
@@ -107,8 +109,6 @@ A fully responsive web application designed for football referees. It provides a
 - **MUI** – Material Design components  
 - **SCSS** – Modular styling with variables
 
-
-
 <br />
 
 # 🤝 Projects in cooperation with other developers
@@ -157,9 +157,7 @@ A loyalty program web app for an insurance company. I worked on the header, cont
 
 <br />
 
-# 👀 Freelance projects
-
-As a freelancer, I look for clients, create mockups, establish business details and support created websites for clients.
+# 👀 Landing pages
 
 ## 📰 [Martrans Brukarz 🔗](https://martransbrukarz.pl)
 
