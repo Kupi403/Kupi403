@@ -1,31 +1,34 @@
 # 👨‍💻 About Me
 
-Hi! I'm a **Freelance Web Developer** and Computer Science engineering student at Lublin University of Technology.
-
-I'm passionate about clean code, responsive design, and building intuitive user experiences with modern JavaScript frameworks.
+👋 I'm a Computer Science engineering student and aspiring **Full-Stack Web Developer**.
+I build practical web applications using modern JavaScript frameworks, REST APIs, and relational databases, focusing on code quality and real-world problem solving.
 
 # 📚 Skills
 
 ### 💻 Languages & Tools
 
-- **JavaScript (ES6+)**
+- **JavaScript (ES6+)**  
 - **TypeScript**
+- **Node.js**
+- **Strapi**
 - **HTML5 & CSS3**
 - **SCSS / SCSS Modules**
 - **Tailwind CSS**
 - **Gulp**
-- **Strapi**
 
 ### ⚙️ Frameworks & Libraries
 
 - **Next.js**
 - **React**  
+- **Express.js**
+- **Angular**
 - **React Router**  
 - **React Redux**
 - **React Context API**    
 - **React Query**
 - **Vite**
 - **MUI (Material UI)**
+
 
 ### 🛠️ Development & Tools
 
@@ -40,14 +43,19 @@ I'm passionate about clean code, responsive design, and building intuitive user 
 
 ### As a freelancer, I look for clients, create mockups, establish business details and support created websites for clients.
 
-## 📰 [Komisja Sędziowska Radom 🔗](https://ksradom.pl)
+## 📰 [Komisja Sędziowska Radom - Official Website 🔗](https://ksradom.pl)
 
 🔗 [REPOSITORY](https://github.com/Kupi403/ksradom-preview)
 
-An responsive information portal for the Referee Committee in Radom. The website provides referees with categorized news, referee listings, scheduled events, training materials and more. 
+✨ An responsive information portal for the Referee Committee in Radom. The website provides referees with categorized news, referee listings, scheduled events, training materials and more. 
 Build with Next.js for frontend and Strapi for backend.
 
-![KS Radom Preview](https://github.com/Kupi403/Kupi403/blob/main/ksradom-desktop.jpg)
+![KS Radom Preview](https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/ksradom-desktop.jpg)
+<div style="display:flex; flex-direcion:row;height:300px">
+<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/ksradom-referee-list.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
+<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/ksradom-form.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
+<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/ksradom-documents.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
+</div>
 
 ### 🔍 App Features
 
@@ -83,13 +91,71 @@ Build with Next.js for frontend and Strapi for backend.
 
 <br />
 
+## 📰 ISRAP – Match Situations Analysis & Examination Platform
+
+✨ A web application developed for a client from the Israel Football Association, used to collect and analyze match clips from Israeli leagues.
+The platform helps referees develop and refine their decision-making skills by analyzing real match clips and participating in video-based tests aligned with IFAB Laws of the Game.
+
+![ISRAP Preview](https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/israp-main.jpg)
+<div style="display:flex; flex-direcion:row;height:300px">
+<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/israp-category.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
+<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/israp-admin.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
+<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/israp-add.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
+</div>
+
+
+### 🔍 App Features
+
+- Custom video player optimized for referee analysis  
+- Playback with controlled navigation  
+- Video-based examination mode with randomized clip selection  
+- Decision overlays explaining technical and disciplinary outcomes  
+- Administrative CMS for managing clips, categories, seasons and penalties  
+- Decision linking match situations with team and individual penalties    
+- Responsive design with mobile (iOS) optimization
+
+### 🛠 Technologies
+
+- **Next.js (App Router)** – Server-side rendering and routing  
+- **TanStack Query (React Query)** – Data fetching, caching and synchronization  
+- **SCSS Modules** – Component-level styling with BEM methodology  
+- **ReactPlayer** – Video playback and custom control handling  
+- **Material UI (MUI)** – UI components (sliders, loaders, icons)
+
+### 🧩 Backend / CMS
+
+- **Strapi** – Backend for structured content and media management  
+  - **SQLite** - Relational database 
+  - Full CRUD workflow for all entities (clips, seasons, categories, penalties)  
+  - REST API used for data fetching, creation, updates and deletion  
+  - Media library with upload, storage and removal of video files (MP4 up to 100MB) and images  
+  - Folder-based media organization by season and clip index  
+  - API endpoints supporting filtering, pagination, sorting and population  
+
+### ⚙️ Logic & Data Handling
+
+- Shuffle algorithm for exam clips randomization  
+- Validation of disciplinary penalties and decision shortcuts  
+- Structured decision connecting clips with referee outcomes
+
+
+
+
+<br />
+
 ## 📰 [UEFA Refereeing Assistance Programme 🔗](https://uefaclips.eu)
 
 🔗 [REPOSITORY](https://github.com/Kupi403/UEFA-RAP-REACT)
 
-A fully responsive web application designed for football referees. It provides access to the latest UEFA refereeing clips and is available in both English and Polish.
+✨ A fully responsive web application designed for football referees. It provides access to the latest UEFA refereeing clips and is available in both English and Polish.
 
-![UEFA RAP Preview](https://github.com/Kupi403/Kupi403/blob/main/uefaclips-desktop.jpg)
+![UEFA RAP Preview](https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/uefaclips-desktop.jpg)
+<div style="display:flex; flex-direcion:row;height:300px">
+<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/uefaclips-clip.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
+<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/uefaclips-decision.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
+<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/uefaclips-shuffle.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
+</div>
+
 
 ### 🔍 App Features
 
@@ -119,7 +185,7 @@ As a member of **DevvMates** I have a pleasure to work with 4 Web Developers and
 
 A product catalog and company homepage for a trailer and semi-trailer rental service.
 
-![Art-Mot Preview](https://github.com/Kupi403/Kupi403/blob/main/artmot-desktop.jpg)
+![Art-Mot Preview](https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/artmot-desktop.jpg)
 
 ### 🔍 App Features
 
@@ -139,9 +205,9 @@ A product catalog and company homepage for a trailer and semi-trailer rental ser
 
 ## 📰 [Paturcy Loyalty Program 🔗](https://paturcy-lojalni.pl)
 
-A loyalty program web app for an insurance company. I worked on the header, contact section, and admin panel.
+✨ A loyalty program web app for an insurance company. I worked on the header, contact section, and admin panel.
 
-![Paturcy Preview](https://github.com/Kupi403/Kupi403/blob/main/paturcy-desktop.jpg)
+![Paturcy Preview](https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/paturcy-desktop.jpg)
 
 ### 🔍 App Features
 
@@ -161,9 +227,9 @@ A loyalty program web app for an insurance company. I worked on the header, cont
 
 ## 📰 [Martrans Brukarz 🔗](https://martransbrukarz.pl)
 
-A portfolio website for a paving services company. The website highlights the company's offerings and features a project photo gallery.
+✨ A portfolio website for a paving services company. The website highlights the company's offerings and features a project photo gallery.
 
-![Martrans Preview](https://github.com/Kupi403/Kupi403/blob/main/martrans-desktop.jpg)
+![Martrans Preview](https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/martrans-desktop.jpg)
 
 ### 🔍 App Features
 
@@ -182,9 +248,9 @@ A portfolio website for a paving services company. The website highlights the co
 
 ## 📰 [Amici Pizzeria 🔗](https://amicipizzeria.pl)
 
-A website for a local pizzeria. Features include photo gallery and an interactive food menu.
+✨ A website for a local pizzeria. Features include photo gallery and an interactive food menu.
 
-![Amici Pizzeria Preview](https://github.com/Kupi403/Kupi403/blob/main/amici-desktop.jpg)
+![Amici Pizzeria Preview](https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/amici-desktop.jpg)
 
 ### 🔍 App Features
 
