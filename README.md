@@ -6,36 +6,34 @@ I build practical web applications using modern JavaScript frameworks, REST APIs
 # 📚 Skills
 
 ### 💻 Languages & Tools
-
-- **JavaScript (ES6+)**  
-- **TypeScript**
-- **Node.js**
-- **Strapi**
-- **HTML5 & CSS3**
-- **SCSS / SCSS Modules**
-- **Tailwind CSS**
-- **Gulp**
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" height="35" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white" height="35" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" height="35" alt="Node.js" />
+  <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white" height="35" alt="Strapi" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" height="35" alt="SASS" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" height="35" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white" height="35" alt="Gulp" />
+</p>
 
 ### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" height="60" alt="Next.js" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="60" alt="React" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" height="60" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="60" alt="Angular" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" height="60" alt="Redux" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query&logoColor=white" height="60" alt="React Query" />
+</p>
 
-- **Next.js**
-- **React**  
-- **Express.js**
-- **Angular**
-- **React Router**  
-- **React Redux**
-- **React Context API**    
-- **React Query**
-- **Vite**
-- **MUI (Material UI)**
-
-
-### 🛠️ Development & Tools
-
-- **Git / GitHub / GitLab**
-- **Responsive Web Design**
-- **Component-based Architecture**
-- **SEO Basics**
+### 🛠️ Development & Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" height="60" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" height="60" alt="GitHub" />
+  <img src="https://img.shields.io/badge/gitlab-%23E24329.svg?style=flat&logo=gitlab&logoColor=white" height="60" alt="GitLab" />
+    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" height="60" alt="Vite" />
+  <img src="https://img.shields.io/badge/SEO-blueviolet?style=flat" height="60" alt="SEO" />
+</p>
 
 <br />
 
