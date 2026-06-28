@@ -89,58 +89,6 @@ Build with Next.js for frontend and Strapi for backend.
 
 <br />
 
-## 📰 [ISRAP – Match Situations Analysis & Examination Platform 🔗](https://israp.net)
-
-✨ A web application developed for a client from the Israel Football Association, used to collect and analyze match clips from Israeli leagues.
-The platform helps referees develop and refine their decision-making skills by analyzing real match clips and participating in video-based tests aligned with IFAB Laws of the Game.
-
-![ISRAP Preview](https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/israp-main.jpg)
-<div style="display:flex; flex-direcion:row;height:300px">
-<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/israp-category.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
-<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/israp-exam.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
-<img src="https://raw.githubusercontent.com/Kupi403/Kupi403/refs/heads/main/screenshots/israp-admin.jpg" width="31%" style="margin:10px; object-fit: contain"></img>
-</div>
-
-
-### 🔍 App Features
-
-- Custom video player optimized for referee analysis  
-- Playback with controlled navigation  
-- Video-based examination mode with randomized clip selection  
-- Decision overlays explaining technical and disciplinary outcomes  
-- Administrative CMS for managing clips, categories, seasons and penalties  
-- Decision linking match situations with team and individual penalties    
-- Responsive design with mobile (iOS) optimization
-
-### 🛠 Technologies
-
-- **Next.js (App Router)** – Server-side rendering and routing  
-- **TanStack Query (React Query)** – Data fetching, caching and synchronization  
-- **SCSS Modules** – Component-level styling with BEM methodology  
-- **ReactPlayer** – Video playback and custom control handling  
-- **Material UI (MUI)** – UI components (sliders, loaders, icons)
-
-### 🧩 Backend / CMS
-
-- **Strapi** – Backend for structured content and media management  
-  - **SQLite** - Relational database 
-  - Full CRUD workflow for all entities (clips, seasons, categories, penalties)  
-  - REST API used for data fetching, creation, updates and deletion  
-  - Media library with upload, storage and removal of video files (MP4 up to 100MB) and images  
-  - Folder-based media organization by season and clip index  
-  - API endpoints supporting filtering, pagination, sorting and population  
-
-### ⚙️ Logic & Data Handling
-
-- Shuffle algorithm for exam clips randomization  
-- Validation of disciplinary penalties and decision shortcuts  
-- Structured decision connecting clips with referee outcomes
-
-
-
-
-<br />
-
 ## 📰 [UEFA Refereeing Assistance Programme 🔗](https://uefaclips.eu)
 
 🔗 [REPOSITORY](https://github.com/Kupi403/UEFA-RAP-REACT)
